@@ -1,4 +1,5 @@
-#/bin/python3
+#!/bin/python3
+# Este script gera um relatório com o url da fila e o tempo de retenção
 
 import boto3
 
